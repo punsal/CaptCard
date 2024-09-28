@@ -1,0 +1,4 @@
+{
+  "sceneToLoad" : "Game_Scene",
+  "sceneLoadDelay" : 1.0
+}
